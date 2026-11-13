@@ -1,4 +1,4 @@
-# keplercrm-com
+# Kepler CRM
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,117 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-keplercrm-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://keplercrm.com/
+Kepler CRM is an AI‑powered recruitment CRM designed for staffing agencies. It offers features such as AI‑assisted candidate matching, automated CV parsing, meeting recording, pipeline management, revenue reporting, and a public job board. The platform emphasizes data privacy, GDPR and PDPA compliance, and provides secure API and MCP access for integrations. It supports bulk CV imports, LinkedIn extensions, and customizable workflows, aiming to streamline agency recruitment processes while keeping data under the client’s control.
+
+**Areas:** Company · AI · Recruitment · CRM · Staffing
+
+## Kepler CRM on APIs.io
+
+Everything profiled for Kepler CRM is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/keplercrm-com/](https://apis.io/providers/keplercrm-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Kepler CRM API](https://apis.io/apis/keplercrm-com/keplercrm-com-api/) — Kepler CRM API as documented publicly: 4 operations. Contract generated from the documentation by API Evangelist (2026-11-13); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PostPortalSlugJobsJobslugApplyRequest](https://apis.io/schemas/keplercrm-com/keplercrm-com-post-portal-slug-jobs-jobslug-apply-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Keplercrm Com Context](https://apis.io/jsonld/keplercrm-com/keplercrm-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Kepler CRM API Rules](https://apis.io/rules/keplercrm-com/keplercrm-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Kepler CRM Domain Security](https://apis.io/security/keplercrm-com/keplercrm-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Kepler CRM Plans Pricing](https://apis.io/plans/keplercrm-com/keplercrm-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://keplercrm.com/)
+- [Getting started](https://keplercrm.com/demo/)
+- [Pricing](https://keplercrm.com/pricing/)
+- [Support](https://keplercrm.com/support/)
+- [Changelog](https://keplercrm.com/support/changelog/)
+- [Blog](https://keplercrm.com/blog/)
+- [Terms of service](https://keplercrm.com/terms/)
+- [Privacy policy](https://keplercrm.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 44.9** — developing · rubric 0.27.0 · scored 2026-11-13
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 42.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 60.0 |
+
+**Agent readiness 39.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/keplercrm-com/](https://apis.io/providers/keplercrm-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Kepler CRM: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/keplercrm-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
